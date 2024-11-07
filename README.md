@@ -17,4 +17,4 @@ The row can be up and down (vertical), across (horizontal), or diagonal.
 
 The first player to make any kind of row wins the game.
 
-Enjoy playing!
+<b>To play it yourselves, you need to download the additional file in this repository, "Connect4.exe". Enjoy playing!</b>
